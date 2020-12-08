@@ -1,7 +1,7 @@
 Patrick Aquino and Christopher Fiaschetti
 ANLY 580
 Final Project: FoodBase Corpus
-Readme File
+ReadMe File
 
 NLP Final Project code.ipynb <- Python Code that is responsible for Data cleaning, EDA and Model building 
 
