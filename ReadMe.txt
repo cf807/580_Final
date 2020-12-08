@@ -27,4 +27,4 @@ Ingredients_TrainX.csv <- dataset used for validating the Ingredients models (X)
 
 Ingredients_TrainY.csv <- dataset used for validating the Ingredients models (Y)
 
-foodbase <- a folder containing the original data from Popovski. See FoodBase.key inside the folder for more information
+foodbase <- a zip file containing the original data from Popovski. See FoodBase.key inside the folder for more information
